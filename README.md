@@ -15,8 +15,7 @@ This dataset has more than 50,000 images of 43 classes.**
     - Local Histogram Equalization.
     - Normalization.
 - **Design a Model Architecture.**
-    - LeNet-5.
-    - VGGNet.
+    - CNN
 - **Model Training and Evaluation.**
 - **Testing the Model Using the Test Set.**
 - **Testing the Model on New Images.**
